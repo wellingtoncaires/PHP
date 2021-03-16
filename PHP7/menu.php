@@ -1,10 +1,35 @@
 <nav class="modulos">
+    <div class="modulo vermelho">
+        <h3>12. Sessão</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=sessao&file=basico_sessao">
+                    Sessão
+                </a>
+            </li>
+        </ul>
+    </div>
     <div class="modulo verde">
         <h3>11. Tratamento/Erro</h3>
         <ul>
             <li>
                 <a href="exercicio.php?dir=tratamento_erro&file=try_catch">
                     Try/Catch
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">
+                    Erros Personalizados
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv_teste">
+                    Desafio Intdiv
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=gereniciador_erro">
+                    Error Hadler
                 </a>
             </li>
         </ul>
